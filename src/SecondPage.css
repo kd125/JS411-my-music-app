@@ -1,0 +1,54 @@
+.text-field {
+  padding: 5px;
+  width: 100%;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.cardsRow {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  width: 100%;
+}
+
+.cards {
+  border: 2px solid black;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  padding: 5px;
+  margin: 5px;
+}
+
+.switch {
+  display: flex;
+  justify-content: center;
+}
+
+.sliderControl {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 25px;
+}
+
+.selectionBox {
+  display: flex;
+  justify-content: center;
+}
+
+.systemNot {
+  display: flex;
+  margin: auto;
+}
