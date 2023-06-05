@@ -1,7 +1,7 @@
 {
   "name": "my-music-app",
   "version": "0.1.0",
-  "homepage": "https://kd125.github.io/JS411-my-music-app/",
+  "homepage": "https://kd125.github.io/JS411-my-music-app",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.0",
