@@ -84,6 +84,7 @@ function SecondPage() {
                 Is this Application connected to the Internet?
                 <br />
               </Typography>
+              {/* Dummy Comment */}
             </CardContent>
             <FormGroup>
               <FormControlLabel
